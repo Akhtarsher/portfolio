@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+body{
+    background-color: black
+}
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+.image{
+    border: none;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+  
+}
+.navigation{
+    position: sticky;
+   
+}
+.box_1{
+    display: block;
+    margin-right: 2px;
+    border: 1px solid black;
+}
+.grid-boxes{
+    padding: 7px;
+}
